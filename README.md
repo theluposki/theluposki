@@ -21,6 +21,7 @@
 <!-- 💬 Pergunte-me sobre ... -->
 - 📫 How to reach me: ...
   <!-- - 📫 Como chegar até mim: ... -->
-    <a href="https://www.linkedin.com/in/lucas-pereira-238688238/">  
+    <a href="https://www.linkedin.com/in/lucas-pereira-238688238/
+    target="_blank">  
         <img src="assets/linkedin.png" width="33px">
     </a>
