@@ -1,6 +1,6 @@
 <h1 style="font-size: 42px;text-align: center;">Software engineer / architect</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,nodejs,typescript,js,html,css,vuejs,mongodb,postgres,mysql,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,python,rust,nodejs,typescript,js,html,css,vuejs,mongodb,postgres,mysql,prisma)](https://skillicons.dev)
 
 ![My skills](https://github-readme-stats.vercel.app/api/top-langs/?username=theluposki&layout=compact&langs_count=16&theme=dark%22)
 
