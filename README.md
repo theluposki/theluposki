@@ -1,4 +1,4 @@
-<h1 style="font-size: 42px;text-align: center;">Software engineer / architect</h1>
+<h1 style="font-size: 42px;text-align: center;">Software engineer</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,python,rust,nodejs,typescript,js,html,css,vuejs,mongodb,postgres,mysql,prisma)](https://skillicons.dev)
 
